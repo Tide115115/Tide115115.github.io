@@ -24,12 +24,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Jonathan Ong Ti Yu"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "-"
+  pronouns         : # example: "he/him"  
+  bio              : "Biography"
+  location         : "Penang, Malaysia"
+  employer         : "None"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "jonathanong115@gmail.com" 
 
   # Academic websites
   academia         : # URL
