@@ -8,6 +8,6 @@ author_profile: true
 {% include base_path %}
 
 
-{% for post in site.illustration %}
+{% for post in site.concept&design %}
   {% include archive-single.html %}
 {% endfor %}
