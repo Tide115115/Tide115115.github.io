@@ -216,16 +216,16 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  teaching:
+  concept & design:
     output: true
     permalink: /:collection/:path/
-  publications:
+  past experience:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  illustration:
     output: true
     permalink: /:collection/:path/
-  talks:
+  animation & storyboarding:
     output: true
     permalink: /:collection/:path/
 
