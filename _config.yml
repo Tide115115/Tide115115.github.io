@@ -22,7 +22,7 @@ repository               : "Tide115115.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "cropped profile pic.jpg"
   name             : "Jonathan Ong Ti Yu"
   pronouns         : # example: "he/him"  
   bio              : "Biography"
