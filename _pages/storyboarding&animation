@@ -1,0 +1,13 @@
+---
+layout: archive
+title: "Storyboarding & Animation"
+permalink: /storyboarding&animation/
+author_profile: true
+---
+
+{% include base_path %}
+
+
+{% for post in site.storyboarding&animation %}
+  {% include archive-single.html %}
+{% endfor %}
