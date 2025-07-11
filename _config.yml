@@ -219,7 +219,7 @@ collections:
   illustration:
     output: true
     permalink: /:collection/:path/
-  concept&design:
+  conceptdesign:
     output: true
     permalink: /:collection/:path/
   storyboarding&animation:
