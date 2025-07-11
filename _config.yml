@@ -219,10 +219,10 @@ collections:
   illustration:
     output: true
     permalink: /:collection/:path/
-  publications:
+  concept&design:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  storyboarding&animation:
     output: true
     permalink: /:collection/:path/
   talks:
