@@ -12,7 +12,9 @@ redirect_from:
 Education
 ======
 RMIT University, Melbourne VIC
+
 Bachelor of Design (Animation and Interactive Media)
+
 [Graduated in 2022]
 
 Past experience
