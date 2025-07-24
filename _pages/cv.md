@@ -19,7 +19,7 @@ Past experience
 ======
 * 5 years of practical design work and practice
 (Foundation studies + Bachelor degree)
-- Involved practice in various digital software as well as repeated
+Involved practice in various digital software as well as repeated
 experience in building projects up from initial concept to final shape
 with feedback from instructors
 
