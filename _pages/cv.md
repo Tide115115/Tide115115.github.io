@@ -25,18 +25,24 @@ experience in building projects up from initial concept to final shape
 with feedback from instructors
 
 * Three years of freelance commission work and personal projects (2023-2025)
-- Completed several digital illustration commissions for clients (including a 
+
+Completed several digital illustration commissions for clients (including a 
 small tabletop games company) in between doing personal projects.
 
 * Final year 2-D Animation student film (Time, Rust and Mould)
+
 https://youtu.be/VnJMPyJem4U
--Utilised all of the organisational and artistic skills I had built up to that
+
+Utilised all of the organisational and artistic skills I had built up to that
 point in order to make it.
 
 * Collaborated with other students on a published music video
+
 (Power Paladin - Creatures of the Night)
+
 https://www.youtube.com/watch?v=Ri5B53e7Abw
--Participated in planning and concept development while contributing
+
+Participated in planning and concept development while contributing
 backgrounds to the final video
   
 Skills
