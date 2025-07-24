@@ -11,54 +11,47 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+RMIT University, Melbourne VIC
+Bachelor of Design (Animation and Interactive Media)
+[Graduated in 2022]
 
-Work experience
+Past experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 5 years of practical design work and practice
+(Foundation studies + Bachelor degree)
+- Involved practice in various digital software as well as repeated
+experience in building projects up from initial concept to final shape
+with feedback from instructors
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Three years of freelance commission work and personal projects (2023-2025)
+- Completed several digital illustration commissions for clients (including a 
+small tabletop games company) in between doing personal projects.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Final year 2-D Animation student film (Time, Rust and Mould)
+https://youtu.be/VnJMPyJem4U
+-Utilised all of the organisational and artistic skills I had built up to that
+point in order to make it.
+
+* Collaborated with other students on a published music video
+(Power Paladin - Creatures of the Night)
+https://www.youtube.com/watch?v=Ri5B53e7Abw
+-Participated in planning and concept development while contributing
+backgrounds to the final video
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Ability to receive and iterate  on
+feedback
+* Responsible and mindful of others
+* Critical Thinking
+* Willingness to learn and improve
+* Familiar with Google and Microsoft
+organisation software
+* Familiar with Adobe, ToonBoom, 
+Clip Studio Paint and TV Paint digital
+art software.
 
-Publications
+Languages
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* English (fluent)
+* Malay (moderate)
