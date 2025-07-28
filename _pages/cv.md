@@ -33,7 +33,7 @@ small tabletop games company) in between doing personal projects.
 
 * Final year 2-D Animation student film (Time, Rust and Mould)
 
-https://youtu.be/VnJMPyJem4U
+[Youtube link](https://youtu.be/VnJMPyJem4U)
 
 Utilised all of the organisational and artistic skills I had built up to that
 point in order to make it.
@@ -42,7 +42,7 @@ point in order to make it.
 
 (Power Paladin - Creatures of the Night)
 
-https://www.youtube.com/watch?v=Ri5B53e7Abw
+[Youtube link](https://www.youtube.com/watch?v=Ri5B53e7Abw)
 
 Participated in planning and concept development while contributing
 backgrounds to the final video
