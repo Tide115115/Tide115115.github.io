@@ -221,6 +221,9 @@ collections:
   illustration:
     output: true
     permalink: /:collection/:path/
+  graphicdesign:
+    output: true
+    permalink: /:graphicdesign/:path/
   conceptdesign:
     output: true
     permalink: /:collection/:path/
