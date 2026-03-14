@@ -223,7 +223,7 @@ collections:
     permalink: /:collection/:path/
   graphicdesign:
     output: true
-    permalink: /:graphicdesign/:path/
+    permalink: /:collection/:path/
   conceptdesign:
     output: true
     permalink: /:collection/:path/
